@@ -1,0 +1,6 @@
+回声“＃xiao” >> README.md 
+git init 
+git add README.md 
+git commit -m“首次提交” 
+git remote add origin https://github.com/yuxe98/xiao.git
+ git push -u origin master               
